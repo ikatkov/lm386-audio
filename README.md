@@ -7,6 +7,8 @@ Assembled mostly from salvaged parts and parts of dubious origin.
 <img src="schematic.png" width="600"/>
 <img src="pcb.png" width="600"/>
 
+The charging module and USB socket are not shown on PCB. I had a USB micro socket breakout that I screw directly to the top right corner. USB socket has to stick out from the main board otherwise wide jacks do not fit. The charging module is mounted vertically facing the back panel so that LEDs are visible through the hole.
+
 # Notes
 
 Instead of a hard-to-get 10k logarithmic volume pot, there is a 100k linear with a 12k resistor from the pot wiper to the ground. This is a nice trick.
