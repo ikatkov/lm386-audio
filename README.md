@@ -27,3 +27,7 @@ See 3D printed enclosure files [here](enclosure)
 The volume potentiometer stem is not shown. I now assemble first and drill all the holes later. This is significantly faster than high-precision measuring and assembly. 
 
 <img src="box.png" width="600"/>
+
+# Assembly
+
+<img src="assembly.jpg" width="600"/>
